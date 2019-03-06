@@ -1,2 +1,2 @@
 # pitl
-RTU DITF "Programmesana datortiklu vide" course
+Rolands Svētiņš
